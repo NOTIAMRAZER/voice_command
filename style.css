@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+span{
+	font-size: 18px;
+	color: red;
+}
+canvas{
+	background: pink;
+	border-radius: 20px;
+	border: 3px solid white;
+}
+.line{
+	height:6px;
+	width: 75px;
+	background-color: white;
+	margin:8px auto;
+  }
